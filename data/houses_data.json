@@ -1,0 +1,40 @@
+{
+    "houses" : [
+        {
+            "name"      : "10 from Downing Street",
+            "cost"      : "$120,000.00",
+            "content"   : "Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "image"     : "img1.jpg"
+        },
+        {
+            "name"      : "Neverland",
+            "cost"      : "$250,000.00",
+            "content"   : "Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "image"     : "img2.jpg"
+        },
+        {
+            "name"      : "Stratford Upon Avon",
+            "cost"      : "$89,000.00",
+            "content"   : "Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "image"     : "img3.jpg"
+        },
+        {
+            "name"      : "Graceland",
+            "cost"      : "$320,000.00",
+            "content"   : "Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "image"     : "img4.jpg"
+        },
+        {
+            "name"      : "221B de Baker Street",
+            "cost"      : "$140,000.00",
+            "content"   : "Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "image"     : "img5.jpg"
+        },
+        {
+            "name"      : "Downtown Abbey",
+            "cost"      : "$128,000.00",
+            "content"   : "Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "image"     : "img6.jpg"
+        }
+    ]
+}
